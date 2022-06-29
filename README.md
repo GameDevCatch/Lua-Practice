@@ -4,7 +4,7 @@ NOTE
 -----
 
 This is just an example project of a simple game that times how
-fast you click the targets. Was mainly created to show off code.
+fast you click the targets. Was mainly created to show off the code.
 
 Thanks for checking it out :)
 
