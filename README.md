@@ -3,7 +3,7 @@
 NOTE
 -----
 
-This is just a example project of a simple game that times how
+This is just an example project of a simple game that times how
 fast you click the targets. Was mainly created to show off code.
 
 Thanks for checking it out :)
