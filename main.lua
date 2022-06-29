@@ -10,7 +10,7 @@ function love.load()
     -- Create random seed from using os clock
     math.randomseed(os.clock())
 
-    -- Create table of targets (Duplicate line: 15 to add more)
+    -- Create table of targets (Duplicate line: 16 to add more)
     targets =
     {
       Target(0, 0, 30),
