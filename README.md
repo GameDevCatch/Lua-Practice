@@ -12,5 +12,6 @@ SETUP
 ------
 
 - Need love2D installed from love2D.org
+- Need lua from lua.org
 - Open file in visual code
 - press alt - L (to run)
